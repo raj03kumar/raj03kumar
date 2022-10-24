@@ -1,3 +1,8 @@
+<h3 align="center">
+  Welcome to Raj's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 - 👋 Hi, I’m Raj Kumar
 - 👀 I’m interested in projects of full stack web development designing and looking for help with Exploring New Technologies.
 - 🌱 I’m currently working over my Skills.
