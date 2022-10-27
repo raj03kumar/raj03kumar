@@ -6,10 +6,10 @@
 </h3>
 
 - 👋 Hi, I’m Raj Kumar
-- 👀 I’m interested in projects of full stack web development designing and looking for help with Exploring New Technologies.
-- 🌱 I’m currently working over my Skills.
+- 👀 I’m interested working in full stack web development projects, designing Webpages and anything related to competitive programming.
+- 🌱 I’m currently learning new tech stacks and working over my Skills.
 - 💞️ I’m looking to collaborate on projects of full stack web development, c++, python and java.
-- 📫 You can reach out to me at singhraj1553@gmail.com or www.linkedin.com/in/rajkumar1553
+- 📫 You can reach out to me at singhraj1553@gmail.com or drop a message at www.linkedin.com/in/rajkumar1553
 - 😁Fun Fact: My favorite song is Destiny by Neffex.
 ---
 [![](https://visitcount.itsvg.in/api?id=raj03kumar&icon=0&color=0)](https://visitcount.itsvg.in)
