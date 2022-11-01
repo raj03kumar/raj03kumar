@@ -6,14 +6,13 @@
 </h3>
 
 - 👋 Hi, I’m Raj Kumar...
-- 👀 I’m interested working with Full Stack Web Development Projects, Designing Webpages and anything related to Competitive Programming.
+- 👀 I’m interested in working with Full Stack Web Development Projects, Designing Webpages and anything related to Competitive Programming.
 - 🌱 I’m currently learning new tech stacks and working over my skills.
 - 💞️ I’m looking to collaborate on projects of Web Development, C++, Python and Java.
 - 📫 You can reach out to me at singhraj1553@gmail.com or drop a message at www.linkedin.com/in/rajkumar1553
 - 😁Fun Fact: My favorite song is Destiny by Neffex.
 ---
 [![](https://visitcount.itsvg.in/api?id=raj03kumar&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj_zyzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajkumar1553) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/raj1553_) 
@@ -40,8 +39,6 @@
 raj03kumar/raj03kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
 <!-- original mario link: https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966 -->
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width=100%>
