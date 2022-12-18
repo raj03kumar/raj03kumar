@@ -29,7 +29,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=raj03kumar&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-[![Raj's github activity graph](https://activity-graph.herokuapp.com/graph?username=raj03kumar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Raj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=raj03kumar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ### ✍️ Random Dev Quote
