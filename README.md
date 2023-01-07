@@ -25,7 +25,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raj03kumar&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raj03kumar&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ## 😮 LOC
-[![Lines of Code](https://api.githubtrends.io/user/svg/raj03kumar/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://api.githubtrends.io/user/svg/raj03kumar/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves)
+![Lines of code](https://api.githubtrends.io/user/svg/raj03kumar/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## 🏆 GitHub Trophies
