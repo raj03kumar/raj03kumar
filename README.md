@@ -12,7 +12,7 @@
 - 📫 You can reach out to me at singhraj1553@gmail.com or drop a message at www.linkedin.com/in/rajkumar1553
 - 😁Fun Fact: My favorite song is Destiny by Neffex.
 ---
-[![](https://visitcount.itsvg.in/api?id=raj03kumar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Views Count](https://visitcount.itsvg.in/api?id=raj03kumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj_zyzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajkumar1553) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/raj1553_) 
@@ -24,8 +24,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=raj03kumar&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raj03kumar&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raj03kumar&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-## 😮 LOC
-[![Lines of Code](https://api.githubtrends.io/user/svg/raj03kumar/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://api.githubtrends.io/user/svg/raj03kumar/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
+## 📈 Productivity Stats:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj03kumar&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## 🏆 GitHub Trophies
