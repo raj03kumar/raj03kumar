@@ -1,4 +1,6 @@
-<img align="center" src="assests/night coding.gif">
+<div align="center"
+  <img align="center" src="assests/night coding.gif">
+</div>
 
 <h3 align="center">
   Welcome to Raj's profile!
