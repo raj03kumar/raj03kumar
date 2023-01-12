@@ -40,6 +40,9 @@
   <br>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj03kumar&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <br>
+  <br>
+  <img align="center" src="https://api.githubtrends.io/user/svg/raj03kumar/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
 </div>
 
 ## 📈 Productivity Stats:
@@ -47,9 +50,6 @@
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj03kumar&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
   </tr> 
-  <tr>
-    <td><img src="<td><img src="https://api.githubtrends.io/user/svg/raj03kumar/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves"  display=block width=100% height=auto  alt="1" ></td>"  display=block width=100% height=auto  alt="1" ></td>
-  </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
