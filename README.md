@@ -43,8 +43,10 @@
   <br>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj03kumar&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-  <br>
-  <br>
+</div>
+
+## 👨‍💻LOC:
+<div align="center">
   <img align="center" src="https://api.githubtrends.io/user/svg/raj03kumar/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
 </div>
 
@@ -58,9 +60,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=raj03kumar&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raj03kumar&theme=discord&no-frame=false&no-bg=false&margin-w=4">
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 [![Raj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=raj03kumar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ### ✍️ Random Dev Quote
