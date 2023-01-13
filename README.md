@@ -21,7 +21,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/raj03kumar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=raj03kumar&icon=1&color=12"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=raj03kumar&color=0e75e6"> </p>
 
 ## 🌐 Socials: 
 <div align="center">
