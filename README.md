@@ -74,7 +74,7 @@
 
 <img src="assets/light.gif"> 
 
-## 🐍 Watch my contribution graph get eaten by the snake 
+## 🐍 Watch My Contribution Graph get eaten by Snake 
 
 ![Raj's Snake gif](https://github.com/raj03kumar/raj03kumar/blob/output/github-contribution-grid-snake.svg)
 
