@@ -68,9 +68,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=raj03kumar&theme=discord&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
-<img src="assets/light.gif"> 
+<br>
 
 [![Raj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=raj03kumar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="assets/light.gif"> 
 
 ## 🐍 Watch my contribution graph get eaten by the snake 
 
