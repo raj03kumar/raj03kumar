@@ -72,6 +72,10 @@
 
 [![Raj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=raj03kumar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## Watch my contribution graph get eaten by the snake 🐍
+
+![Raj's Snake gif](https://github.com/raj03kumar/raj03kumar/blob/output/github-contribution-grid-snake.gif)
+
 <img src="assets/light.gif"> 
 
 ### ✍️ Random Dev Quote
