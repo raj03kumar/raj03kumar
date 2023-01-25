@@ -74,7 +74,7 @@
 
 ## 🐍 Watch my contribution graph get eaten by the snake 
 
-![Raj's Snake gif](https://github.com/raj03kumar/raj03kumar/blob/output/github-contribution-grid-snake.gif)
+![Raj's Snake gif](https://github.com/raj03kumar/raj03kumar/blob/output/github-contribution-grid-snake.svg)
 
 <img src="assets/light.gif"> 
 
