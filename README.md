@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning new tech stacks and working over my skills.
 - 💞️ I’m looking to collaborate on projects of Web Development, C++, Python and Java or any basic Machine Learning Project.
 - 📫 You can reach out to me at singhraj1553@gmail.com or drop a message at www.linkedin.com/in/rajkumar1553
-- 😁 Fun Fact: What color is your Bugatti.
+- 😁 Fun Fact: ```What color is your Bugatti?```
 
 <img src="assets/light.gif">
 
