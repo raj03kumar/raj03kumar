@@ -18,7 +18,7 @@
 
 <p align="center"> 
   <a href="https://github.com/raj03kumar?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/raj03kumar?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/raj03kumar?color=ffbc00&style=for-the-badge&labelColor=ff9a03&logo=star"/></a>
   <a href="https://github.com/raj03kumar?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/raj03kumar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
