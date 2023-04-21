@@ -69,8 +69,9 @@
 <img src="assets/light.gif"> 
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raj03kumar&theme=discord&no-frame=false&no-bg=false&margin-w=4">
+<div align=center>
+      <img src="https://github-profile-trophy.vercel.app/?username=raj03kumar&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=8">
+    </a>
 </div>
 
 <br>
