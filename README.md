@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning new tech stacks and working over my skills.
 - 💞️ I’m looking to collaborate on projects of Web Development, JavaScript, Python and PHP or any basic Machine Learning Project.
 - 📫 You can reach out to me at peaceoloruntoba22@gmail.com or drop a message at www.linkedin.com/in/peaceoloruntoba
-- 😁 Fun Fact: ```What model is your Tesla?```
+- 😁 Fun Fact: ```Did you know that the first computer mouse was made of wood?```
 
 <img src="assets/light.gif">
 
