@@ -1,3 +1,5 @@
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Raj Kumar </h1>
+
 <div align="center">
   <img src="assets/intro.svg">
 </div>
