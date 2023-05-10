@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/night coding.gif">
+  <img src="assets/intro.svg">
 </div>
 
 <h3 align="center">
