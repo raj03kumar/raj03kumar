@@ -1,7 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Raj Kumar </h1>
 
 <div align="center">
-  <img src="assets/intro.gif">
+  <img src="assets/bio.gif">
 </div>
 
 <h3 align="center">
