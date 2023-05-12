@@ -7,10 +7,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-- 👋 Hi, I’m Peace Oloruntoba...
+- 👋 Hi, I’m Peace Oloruntoba... ( aka Prof Prince Peace )
 - 👀 I’m interested in working with Full Stack Web Development Projects, Designing Webpages and anything related to Competitive Programming.
 - 🌱 I’m currently learning new tech stacks and working over my skills.
-- 💞️ I’m looking to collaborate on projects of Web Development, JavaScript, Python and PHP or any basic Machine Learning Project.
+- 💞️ I’m looking to collaborate on projects of Web Development, JavaScript, Python and PHP or any basic Software Development Project.
 - 📫 You can reach out to me at peaceoloruntoba22@gmail.com or drop a message at www.linkedin.com/in/peaceoloruntoba
 - 😁 Fun Fact: ```Did you know that the first computer mouse was made of wood?```
 
