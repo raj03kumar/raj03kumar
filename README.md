@@ -11,7 +11,7 @@
 - 👀 I’m interested in working with Full Stack Web Development Projects, Designing Webpages and anything related to Competitive Programming.
 - 🌱 I’m currently learning new tech stacks and working over my skills.
 - 💞️ I’m looking to collaborate on projects of Web Development, JavaScript, Python and PHP or any basic Software Development Project.
-- 📫 You can reach out to me at peaceoloruntoba22@gmail.com or drop a message at [https://www.linkedin.com/in/ayomide-adekunle-a1415b276]
+- 📫 You can reach out to me at peaceoloruntoba22@gmail.com or drop a message at https://www.linkedin.com/in/ayomide-adekunle-a1415b276
 - 😁 Fun Fact: ```Did you know that the first computer mouse was made of wood?```
 
 <img src="assets/light.gif">
@@ -71,12 +71,6 @@
 <br>
 
 [![Peace's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PeaceOloruntoba&theme=react-dark)](https://github.com/PeaceOloruntoba/github-readme-activity-graph)
-
-<img src="assets/light.gif"> 
-
-## 🐍 Watch My Contribution Graph get eaten by Snake 
-
-![Peace's Snake gif](https://github.com/raj03kumar/raj03kumar/blob/output/github-contribution-grid-snake.svg)
 
 <img src="assets/light.gif"> 
 
