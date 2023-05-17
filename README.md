@@ -11,7 +11,7 @@
 - 👀 I’m interested in working with Full Stack Web Development Projects, Designing Webpages and anything related to Competitive Programming.
 - 🌱 I’m currently learning new tech stacks and working over my skills.
 - 💞️ I’m looking to collaborate on projects of Web Development, JavaScript, Python and PHP or any basic Software Development Project.
-- 📫 You can reach out to me at peaceoloruntoba22@gmail.com or drop a message at https://www.linkedin.com/in/ayomide-adekunle-a1415b276
+- 📫 You can reach out to me at peaceoloruntoba22@gmail.com or drop a message at https://www.linkedin.com/in/peaceedgetech
 - 😁 Fun Fact: ```Did you know that the first computer mouse was made of wood?```
 
 <img src="assets/light.gif">
@@ -27,7 +27,7 @@
 
 ## 🌐 Socials: 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/ayomide-adekunle-a1415b276]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/peaceedgetech]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/PeaceEdgeTech"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://github.com/PeaceOloruntoba"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.instagram.com/peaceedgetech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
