@@ -18,7 +18,7 @@
 
 <p align="center"> 
   <a href="https://github.com/peaceoloruntoba?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/raj03kumar?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PeaceOloruntoba?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/></a>
   <a href="https://github.com/peaceoloruntoba?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/peaceoloruntoba?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
