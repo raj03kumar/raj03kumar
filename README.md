@@ -55,13 +55,13 @@
   <br>
 </div>
 
-# 👨‍💻LOC:
+## 👨‍💻LOC:
 <img src="assets/light.gif">
 <div align="center">
   <img align="center" src="https://api.githubtrends.io/user/svg/raj03kumar/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
 </div>
 
-# 📈 Productivity Stats:
+## 📈 Productivity Stats:
 <table align="center">
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj03kumar&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
