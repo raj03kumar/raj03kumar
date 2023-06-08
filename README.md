@@ -91,5 +91,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
-### Show some ❤️ by starring some of the repositories!
+<h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
+
 ![footer](assets/footer.webp)
