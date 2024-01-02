@@ -1,5 +1,7 @@
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Raj Kumar </h1>
+
 <div align="center">
-  <img src="assets/night coding.gif">
+  <img src="assets/bio.gif">
 </div>
 
 
@@ -36,6 +38,7 @@
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
 ## 📊 GitHub Stats:
 <img src="assets/light.gif">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PeaceOloruntoba)](https://git.io/streak-stats)
@@ -49,8 +52,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeaceOloruntoba&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
-
-# 📈 Productivity Stats:
+## 📈 Productivity Stats:
 <table align="center">
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeaceOloruntoba&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
@@ -64,8 +66,11 @@
 </div>
 <br>
 [![Peace's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PeaceOloruntoba&theme=react-dark)](https://github.com/PeaceOloruntoba/github-readme-activity-graph)
-
 <img src="assets/light.gif"> 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+<h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
+
+![footer](assets/footer.webp)
