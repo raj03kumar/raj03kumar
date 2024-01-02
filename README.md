@@ -16,7 +16,6 @@
 - 😁 Fun Fact: ```Did you know that the first computer mouse was made of wood?```
 
 <img src="assets/light.gif">
-
 <p align="center"> 
   <a href="https://github.com/peaceoloruntoba?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PeaceOloruntoba?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/></a>
@@ -50,11 +49,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeaceOloruntoba&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
-# 👨‍💻LOC:
-<img src="assets/light.gif">
-<div align="center">
-  <img align="center" src="https://api.githubtrends.io/user/svg/PeaceOloruntoba/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
-</div>
 
 # 📈 Productivity Stats:
 <table align="center">
@@ -62,16 +56,13 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeaceOloruntoba&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
   </tr> 
 </table>
-
 <img src="assets/light.gif"> 
 
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PeaceOloruntoba&theme=discord&no-frame=false&no-bg=false&margin-w=4">
 </div>
-
 <br>
-
 [![Peace's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PeaceOloruntoba&theme=react-dark)](https://github.com/PeaceOloruntoba/github-readme-activity-graph)
 
 <img src="assets/light.gif"> 
